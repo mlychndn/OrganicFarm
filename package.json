@@ -1,0 +1,26 @@
+{
+  "name": "organic-farm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mlychndn/OrganicFarm.git"
+  },
+  "author": "Malay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mlychndn/OrganicFarm/issues"
+  },
+  "homepage": "https://github.com/mlychndn/OrganicFarm#readme",
+  "dependencies": {
+    "slugify": "^1.6.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
